@@ -13,5 +13,4 @@
 6. reduce() accepts array and callback function returns the sum.
 
 * Project Dependencies
-1. Path of the entry file is mentioned. 
-2. Relative path is used.
+1. Relative path is used.
