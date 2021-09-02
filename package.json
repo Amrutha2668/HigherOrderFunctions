@@ -1,0 +1,22 @@
+{
+  "name": "higherorderfunctions",
+  "version": "1.0.0",
+  "description": "* Instructions to open the project.\r 1. Copy the repository link.\r 2. Open visual studio code.\r 3. Using clone \"repo-link\" command clone the repository.\r 4. Run the files inside the **test folder** to check the output.",
+  "main": "each.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amrutha2668/HigherOrderFunctions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amrutha2668/HigherOrderFunctions/issues"
+  },
+  "homepage": "https://github.com/Amrutha2668/HigherOrderFunctions#readme"
+}

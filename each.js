@@ -5,8 +5,6 @@ function each(elements, cb) {
       // Passing parameters to the callback function
       cb(elements[i], i);
     }
-    // returning the array after computing.
-    //return result;
   } else return "Works only with Array";
 }
 
