@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Amrutha2668/HigherOrderFunctions/issues"
   },
-  "homepage": "https://github.com/Amrutha2668/HigherOrderFunctions#readme"
+  "homepage": "https://github.com/Amrutha2668/HigherOrderFunctions#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
 }

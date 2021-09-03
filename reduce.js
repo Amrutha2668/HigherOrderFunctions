@@ -9,6 +9,7 @@ function reduce(elements, cb, initialValue) {
   } else return "Works only with Array";
 }
 
+// eslint-disable-next-line no-undef
 module.exports = {
   reduce: reduce,
 };

@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-undef
 const flattenFunction = require("../flatten.js");
 
 const nestedArray = [1, [2], [[3]], [[[4]]]];

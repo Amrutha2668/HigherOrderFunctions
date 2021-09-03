@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-undef
 const mapFunction = require("../map.js");
 
 const items = [1, 2, 3, 4, 5, 5];

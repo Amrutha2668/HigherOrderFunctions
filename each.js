@@ -8,6 +8,7 @@ function each(elements, cb) {
   } else return "Works only with Array";
 }
 
+// eslint-disable-next-line no-undef
 module.exports = {
   each: each,
 };

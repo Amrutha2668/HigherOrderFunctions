@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-undef
 const reduceFunction = require("../reduce.js");
 
 const items = [1, 2, 3, 4, 5, 5];

@@ -1,3 +1,4 @@
+/* eslint-disable no-inner-declarations */
 function flatten(elements) {
   let result = [];
   // Checking if elements is an array.
@@ -22,6 +23,7 @@ function flatten(elements) {
   } else return "Works only with Array";
 }
 
+// eslint-disable-next-line no-undef
 module.exports = {
   flatten: flatten,
 };
